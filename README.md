@@ -2,7 +2,7 @@
 
 ## ossProject class
 
-## opne source class
+## open source class
 
 ## test github
 
